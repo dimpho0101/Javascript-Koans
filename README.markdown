@@ -27,7 +27,3 @@ refresh the browser. Rinse and repeat until all tests turn green.
 
 The test runner used is [Jasmine](http://jasmine.github.io/) with a customized report viewer.
 
-### Acknowledgements
-*  Dick Wall (the Java posse) - for bringing the idea of koans to my attention
-*  Edgecase - for the great Ruby Koans
-*  Douglas Crockford - for Javascript; the good bits
